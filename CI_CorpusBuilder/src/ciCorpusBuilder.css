@@ -1,0 +1,40 @@
+/* CSS declarations go here */
+.half-width-input {
+	width:50%
+}
+
+.corpustable {
+	width: 50%;	
+}
+
+#corpusList, #newCorpus {
+	width: 100%;	
+}
+
+.ziptable {
+    width: 100%;
+}
+
+td {
+	vertical-align: top;
+	white-space: nowrap;
+}
+
+#toobig {
+	border: none;
+	white-space: nowrap;
+	width: 50em;                   
+	overflow: hidden; 
+	text-overflow: ellipsis;
+}
+
+.clear {
+    clear: both;
+}
+
+.div {
+	border: 1px;
+}
+
+
+
